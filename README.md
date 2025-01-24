@@ -17,3 +17,4 @@ GalaxyCreateurDemo fait par moi GhnGamingLive -galaxymsbt made by SunakazeKun(Au
  GalaxyCreatorDemo V2
   -possbility now acess to wiiexplorer arc file editor/possibilité maintenant accès à wiiexplorer arc fichier éditeur by superhackio/par superhackio
   -update launchcamplus and dolphin/mises à jours launchcamplus et dauphin by/par superhackio/superhackio et dolphin emulator
+  -download link/Lien téléchargement https://drive.google.com/file/d/134n2ewpasf1a2pGIVJIV5EzcDKNp3IjL/view?usp=drive_link

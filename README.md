@@ -18,3 +18,10 @@ GalaxyCreateurDemo fait par moi GhnGamingLive -galaxymsbt made by SunakazeKun(Au
   -possbility now acess to wiiexplorer arc file editor/possibilité maintenant accès à wiiexplorer arc fichier éditeur by superhackio/par superhackio
   -update launchcamplus and dolphin/mises à jours launchcamplus et dauphin by/par superhackio/superhackio et dolphin emulator
   -download link/Lien téléchargement https://drive.google.com/file/d/134n2ewpasf1a2pGIVJIV5EzcDKNp3IjL/view?usp=drive_link
+GalaxyCreatorDemo V3
+now you have a possibility to save settings into *.gcdd (Galaxy Creator Demo Data File) or load/maintenant vous avez la possibilité de sauvegarder paramètres en *.gcdd (Galaxy Creator Démo Donnée Fichier) ou charger
+add ISO Settings Windows for edit Super Mario Galaxy 2 with a tons of new options work in progress/ajout ISO Paramètres fenêtre pour éditer Super Mario Galaxy 2 avec une tonne de nouvelles options travail en progression
+add More Galaxie Object Patcher batch file for my project Super Mario Galaxy Land/ajout plus objets patcher fichier batch pour mon
+projet Super Mario Galaxie Terres
+we can now run SyatiManager into application/vous pouvez maintenant exécuter SyatiManager via application
+and that's all/et c'est tout

@@ -22,4 +22,4 @@ we can now run SyatiManager into application/vous pouvez maintenant exécuter Sy
 and that's all/et c'est tout
 download link/Lien téléchargement https://drive.google.com/file/d/134n2ewpasf1a2pGIVJIV5EzcDKNp3IjL/view?usp=drive_link
 it's in work in progress/c'est dans travail en progression 
-si vous avez juste l'exécutable de télécharger veuillez ajouter les autres fichiers du code source sinon ça ne fonction ainsi que les .json fichiers,.pdb fichier et .dll fichier
+si vous avez juste l'exécutable de télécharger veuillez ajouter les autres fichiers du code source sinon ça ne fonction ainsi que les .json fichiers,.pdb fichier et .dll fichier/If you just have the executable to download please add the other files of the source code otherwise it does not function as well as .json files, .pdb file and .dll file

@@ -21,4 +21,5 @@ projet Super Mario Galaxie Terres
 we can now run SyatiManager into application/vous pouvez maintenant exécuter SyatiManager via application
 and that's all/et c'est tout
 download link/Lien téléchargement https://drive.google.com/file/d/134n2ewpasf1a2pGIVJIV5EzcDKNp3IjL/view?usp=drive_link
-it's in work in progress/c'est dans travail en progression
+it's in work in progress/c'est dans travail en progression 
+si vous avez juste l'exécutable de télécharger veuillez ajouter les autres fichiers du code source sinon ça ne fonction ainsi que les .json fichiers,.pdb fichier et .dll fichier
